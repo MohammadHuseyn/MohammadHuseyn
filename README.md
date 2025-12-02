@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on Flutter applications, React, Python, and Docker, creating projects to make life simpler.
+
 👯 I’m looking to collaborate on interesting projrcts.
+
 🤝 I’m looking for help finding a girlfriend.
+
 🌱 I’m currently learning Qwik and React.
+
 💬 Ask me about Flutter, Kotlin, automation, or Linnux.
+
 ⚡ Fun fact: there’s nothing funny here—stop laughing.
 
 
